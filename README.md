@@ -126,7 +126,7 @@ An AI-generated video content pipeline using Google Flow (Veo) to produce and pu
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdessamad10bouih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdessamadbouih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadbouih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
 
 <br/>
