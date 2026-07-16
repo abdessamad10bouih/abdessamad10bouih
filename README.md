@@ -126,8 +126,8 @@ An AI-generated video content pipeline using Google Flow (Veo) to produce and pu
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdessamadbouih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadbouih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdessamad10bouih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamad10bouih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
 
 <br/>
 
@@ -145,9 +145,9 @@ An AI-generated video content pipeline using Google Flow (Veo) to produce and pu
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:bouihabdessamad5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdessamadbouih"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdessamadbouih"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
